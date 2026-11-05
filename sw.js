@@ -1,6 +1,6 @@
 // Service worker d'Avenger Charge (règles : CLAUDE.md section 3).
 // Incrémenter CACHE_VERSION à chaque déploiement, et ne lister que des fichiers qui existent.
-const CACHE_VERSION = 'v6';
+const CACHE_VERSION = 'v7';
 const PREFIXE_CACHE = 'avenger-charge-';
 const CACHE_NAME = `${PREFIXE_CACHE}${CACHE_VERSION}`;
 

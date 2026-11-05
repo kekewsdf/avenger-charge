@@ -7,7 +7,7 @@ import * as trajets from './ecrans/trajets.js';
 import * as simuler from './ecrans/simuler.js';
 import * as reglages from './ecrans/reglages.js';
 
-export const VERSION_APPLI = '0.6.0';
+export const VERSION_APPLI = '0.6.1';
 
 const ECRANS = { accueil, recharges, trajets, simuler, reglages };
 
